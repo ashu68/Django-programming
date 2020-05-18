@@ -1,0 +1,6 @@
+main()
+{
+  system("color a4");
+  printf("wel1come");
+  getch();
+}
